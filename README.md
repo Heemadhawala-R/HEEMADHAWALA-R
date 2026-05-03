@@ -67,10 +67,10 @@ Full-stack web application with:
 
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heemadhawala-R&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Heemadhawala-R&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ Full-stack web application with:
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heemadhawala-R&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heemadhawala-R&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
