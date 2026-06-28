@@ -23,7 +23,7 @@ const heema = {
   currentlyBuilding: ["Project Shadow — women's safety app", "open source @ GSSoC'26"],
   research: "Presented @ ICSTES'25 conference",
   lookingFor: "internships",
-  stack: ["React", "Node.js", "Express", "MongoDB", "Python", "Flask", "AWS"],
+  stack: ["React", "Node.js", "Express", "MongoDB", "PHP","Python", "Flask", "AWS"],
   funFact: "I build tools I actually want to use 🛠️"
 };
 ```
@@ -111,9 +111,7 @@ const heema = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heemadhawala-r/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](heemadhawala.r218@gmail.com)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heemadhawala.r218@gmail.com)</div>
 
 <br/>
 
