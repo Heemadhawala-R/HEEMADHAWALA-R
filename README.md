@@ -35,7 +35,7 @@ const heema = {
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Cakeville**](https://github.com/Heemadhawala-R/CAKEVILLE) | Full-stack bakery platform with cart, auth & orders | MERN |
-| [**MedTwin-AI**](med-twin-ai-w4sv.vercel.app/)) | AI-powered healthcare app for symptom analysis | Python · Flask · ML |
+| [**MedTwin-AI**](https://med-twin-ai-w4sv.vercel.app/) | AI-powered healthcare app for symptom analysis | Python · Flask · ML |
 | [**Student Companion Dashboard**](https://student-companion-dashboard.vercel.app/) | Productivity hub — GPA calc, Pomodoro, attendance | HTML · CSS · JS |
 
 ---
